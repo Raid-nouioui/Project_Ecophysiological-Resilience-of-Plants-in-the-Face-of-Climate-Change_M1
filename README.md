@@ -58,12 +58,8 @@ Explains why linking molecular mechanisms to ecological realities is crucial for
 ---
 
 ## 🧩 Included File
-- `final.pdf` — Full scientific report with diagrams and references  
+- `Ecophysiological Resilience of Plants in the Face of Climate Change.pdf` — Full scientific report with diagrams and references  
   *(23 pages, including figures, tables, and citations to recent scientific studies)*
-
-Optional (if required by your teacher):
-- `script_analyse.R` — Placeholder for data analysis code (if you performed any analysis)  
-- `donnees_observations.csv` — Example data file (if applicable)
 
 ---
 
@@ -86,14 +82,14 @@ If reused or cited, please reference:
 
 ## 🧑‍🏫 Supervising Instructor
 Course: **Publier un Projet sur GitHub – Master 1 SNV**  
-Instructor: *[Name of your professor, if known]*  
+Instructor: *Djamel AAID*  
 Purpose: Demonstrate the use of GitHub for academic project publication and collaboration.
 
 ---
 
 ## 💬 Contact
 For questions or collaboration:
-- 📧 [Your university email address]  
+- 📧 [el-snv@univ-batna2.dz]  
 - 🌐 GitHub Profile: [your-username](https://github.com/your-username)
 
 ---
