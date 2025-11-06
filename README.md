@@ -89,7 +89,7 @@ Purpose: Demonstrate the use of GitHub for academic project publication and coll
 
 ## 💬 Contact
 For questions or collaboration:
-- 📧 [el-snv@univ-batna2.dz]  
+- 📧 [d.aaid@univ-batna2.dz]  
 - 🌐 GitHub Profile: [your-username](https://github.com/your-username)
 
 ---
