@@ -89,8 +89,8 @@ Purpose: Demonstrate the use of GitHub for academic project publication and coll
 
 ## 💬 Contact
 For questions or collaboration:
-- 📧 [d.aaid@univ-batna2.dz]  
-- 🌐 GitHub Profile: [your-username](https://github.com/your-username)
+- 📧 [raid.nouioui@etu.univ-batna2.dz]  
+- 🌐 GitHub Profile: [Raid-nouioui](https://github.com/Raid-nouioui)
 
 ---
 
